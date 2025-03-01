@@ -46,19 +46,21 @@ O aplicativo estará disponível no navegador, geralmente em `http://localhost:5
 │   ├── components/
 │   │   ├── Card.jsx
 │   ├── assets/
+│   │   ├── design/
 │   │   ├── images/
 │   ├── App.jsx
 │   ├── main.jsx
 ├── public/
 ├── package.json
-├── tailwind.config.js
+
 ├── vite.config.js
 └── README.md
 ```
 
 ## 🖼️ Captura de Tela
-![Preview do projeto](./src/design/desktop-preview.png)
-![Preview do projeto](./src/design/mobile-design.png)
+![Preview do projeto](./src/assets/design/mobile-design.jpg)
+![Preview do projeto](./src/assets/design/desktop-preview.jpg)
+
 
 
 
